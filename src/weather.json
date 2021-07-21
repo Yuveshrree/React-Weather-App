@@ -1,0 +1,50 @@
+{
+    "weather": {
+        "location": "Chennai, TamilNadu",
+        "date": "1573882063",
+        "weekly": [
+            {
+                "day": "Sunday",
+                "weather":"Rainy",
+                "weatherType": "rain_s_cloudy",
+                "temperature": 31
+            },
+            {
+                "day": "Monday",
+                "weather":"Cloudy",
+                "weatherType": "cloudy",
+                "temperature": 31
+            },
+            {
+                "day": "Tuesday",
+                "weather":"Thunderstorms",
+                "weatherType": "thunderstorms",
+                "temperature": 31
+            },
+            {
+                "day": "Wednesday",
+                "weather":"Sunny",
+                "weatherType": "sunny",
+                "temperature": 29
+            },
+            {
+                "day": "Thursday",
+                "weather":"Partly Cloudy",
+                "weatherType": "partly_cloudy",
+                "temperature": 30
+            },
+            {
+                "day": "Friday",
+                "weather":"Sunny",
+                "weatherType": "sunny",
+                "temperature": 30
+            },
+            {
+                "day": "Saturday",
+                "weather":"Sunny",
+                "weatherType": "sunny",
+                "temperature": 29
+            }
+        ]
+    }
+}
